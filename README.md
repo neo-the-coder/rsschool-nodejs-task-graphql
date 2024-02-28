@@ -1,4 +1,4 @@
-# battleship-rs-nodejs
+# graphql-rs-nodejs
 1.  [Link to the task](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/graphql-service/assignment.md)
 2.  Deadline date: 05 March 2024 04:00 UTC
 3.  Self check score: -/360 [will be updated]
